@@ -35,17 +35,17 @@ added alt descriptions for images
 
 consolidated the following
 
-.benefit-lead, .benefit-brand,.benefit-cost
+-   .benefit-lead, .benefit-brand,.benefit-cost
 
-.benefit-lead h3,.benefit-brand h3,.benefit-cost h3
+-   .benefit-lead h3,.benefit-brand h3,.benefit-cost h3
 
-.benefit-lead img,.benefit-brand img,.benefit-cost img
+-   .benefit-lead img,.benefit-brand img,.benefit-cost img
 
-.search-engine-optimization,.online-reputation-management,.social-media-marketing
+-   .search-engine-optimization,.online-reputation-management,.social-media-marketing
 
-.search-engine-optimization img,.online-reputation-management img,.social-media-marketing img
+-   .search-engine-optimization img,.online-reputation-management img,.social-media-marketing img
 
-.search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2
+-   .search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2
 
 added '' to Calibri font style
 
