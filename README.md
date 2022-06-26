@@ -17,17 +17,17 @@ Title changed to Horiseon
 
 "Div" Changes to semantic structure including
 
-header
+-   header
 
-nav
+-   nav
 
-section
+-   section
 
-article
+-   article
 
-aside
+-   aside
 
-footer
+-   footer
 
 added alt descriptions for images
 
